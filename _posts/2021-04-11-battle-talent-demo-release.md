@@ -28,7 +28,7 @@ header-img: "img/battle-talent.png"
 
 
 游戏网站：
-[jjyy.guru/battletalent.html](jjyy.guru/battletalent.html)
+[http://jjyy.guru/battletalent.html](http://jjyy.guru/battletalent.html)
 
 Steam页面：
 [https://store.steampowered.com/app/1331510](https://store.steampowered.com/app/1331510)
