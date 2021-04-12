@@ -4,7 +4,7 @@ header-img: img/mc-title.jpg
 email: lauhonyeung@gmail.com
 description: "关于VR、游戏、编程、技术"
 baseurl: "/blogcn"
-#redirect: "/blogcn"
+redirect: "/blogcn"
 url: "/blogcn"
 twitter_username: lauhonyeung
 github_username:  fonzieyang
